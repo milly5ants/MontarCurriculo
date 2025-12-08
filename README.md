@@ -31,7 +31,7 @@ A ideia é simples:
 1. **Clone ou baixe este repositório**
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/milly5ants/MontarCurriculo.git
    ```
 
 2. Abra o arquivo `index.html` em qualquer editor de código (VS Code, Notepad++, etc).
